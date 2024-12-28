@@ -33,7 +33,7 @@ public class primer_codi {
         String nom = "<Bryan>";
         System.out.printf("Tinc %d anys", nom);
 
-
+        //Hacemos un comentario desde el IntelliJ
     }
 }
 
